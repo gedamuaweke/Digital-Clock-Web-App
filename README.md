@@ -22,7 +22,6 @@ This is a simple **Digital Clock web application** built using HTML, CSS, and Ja
 ---
 
 ## 📂 Project Structure
-```
 
 digital-clock/
 │
@@ -30,7 +29,7 @@ digital-clock/
 ├── style.css      # Styling file
 └── script.js      # JavaScript logic
 
-````id="clk005"
+ 
 
 ---
 
